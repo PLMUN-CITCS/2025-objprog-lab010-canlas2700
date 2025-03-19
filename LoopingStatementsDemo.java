@@ -1,6 +1,3 @@
-
-John Angel
-John Angel Dahil
 public class LoopingStatementsDemo {
 
 	public static void main(String[] args) {
